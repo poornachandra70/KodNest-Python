@@ -7,3 +7,4 @@ rating = float(input())
 print(name)
 print(age)
 print(rating)
+
