@@ -13,8 +13,8 @@
 
 
  # CODE 
-first_number = int(input("Enter first number: "))
-second_number = int(input("Enter second number: "))
+first_number = int(input())
+second_number = int(input())
 
-Sum = first_number + second_number
-print(f"Sum: {Sum}")
+print(first_number / second_number)
+print(first_number // second_number)
