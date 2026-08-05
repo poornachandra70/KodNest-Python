@@ -18,5 +18,3 @@ second_number = int(input("Enter second number: "))
 
 Sum = first_number + second_number
 print(f"Sum: {Sum}")
-
-
