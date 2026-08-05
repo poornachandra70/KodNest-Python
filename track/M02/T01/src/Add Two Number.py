@@ -5,3 +5,4 @@ second_number=int(input())
 sum = first_number + second_number
 # Display the result
 print(f"Sum: {sum}")
+
